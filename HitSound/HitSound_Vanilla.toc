@@ -1,4 +1,4 @@
-## Interface: 90205
+## Interface: 11501
 ## Title: HitSound
 ## Notes: Plays a sound whenever you damage someone.
 ## Author: Exotix

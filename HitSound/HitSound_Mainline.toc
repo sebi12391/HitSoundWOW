@@ -1,0 +1,7 @@
+## Interface: 100205
+## Title: HitSound
+## Notes: Plays a sound whenever you damage someone.
+## Author: Exotix
+## Version: 1.0
+## SavedVariables: HitSoundDB
+HitSound.lua
